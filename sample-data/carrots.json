@@ -1,6 +1,6 @@
 [
   {
-    "imagePath": "http://cdn.iamsap.com/courses/2017-angular2-material/carrots/carrot1.jpg",
+    "imagePath": "https://raw.githubusercontent.com/iamsap/carrots/master/sample-data/carrot1.jpg",
     "name": "Carrot #1",
     "description": "Duis tempus nibh et magna cursus, non dignissim enim euismod. Aliquam semper convallis aliquet."
   },
